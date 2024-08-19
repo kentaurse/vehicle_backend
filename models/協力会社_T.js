@@ -5,7 +5,7 @@ const 協力会社_T_schema = new mongoose.Schema({
   カウント: Number,
   担当: String,
   アドレス: String,
-  CC: Number,
+  CC: String,
   TEL: String,
   FAX: String,
   住所: String,

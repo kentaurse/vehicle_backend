@@ -1,0 +1,442 @@
+[
+    {
+        "配車名称": "EVERLINE株式会社",
+        "カウント": 14.0,
+        "担当": "生井",
+        "アドレス": "s.namai@everline.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp;k.makino@everline.jp; ",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "OK物流サービス株式会社",
+        "カウント": 850.0,
+        "担当": "武田",
+        "アドレス": "yu_takeda@ok-logistics.jp",
+        "CC": "y_takeda@ok-logistics.jp;y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp;m_kishida@ok-logistics.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "アスカ精工株式会社",
+        "カウント": 26.0,
+        "担当": "金井",
+        "アドレス": "asukaseiko-kuro@trad.ocn.ne.jp",
+        "CC": "asukaseiko-unyu@aroma.ocn.ne.jp;y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "エムカンパニー株式会社",
+        "カウント": 187.0,
+        "担当": "臼井",
+        "アドレス": "mcompany3088@iaa.itkeeper.ne.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "エムズ物流株式会社",
+        "カウント": 59.0,
+        "担当": "今井",
+        "アドレス": "a_imai@emuzu-japan.co.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp;tokiwa0777@yahoo.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "トランステック株式会社",
+        "カウント": 124.0,
+        "担当": "佐々木",
+        "アドレス": "sasaki@trans-tech.co.jp",
+        "CC": "okamura@trans-tech.co.jp;yoshida@trans-tech.co.jp;y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社IS transport",
+        "カウント": 1453.0,
+        "担当": "色川",
+        "アドレス": "istransport01@beach.ocn.ne.jp",
+        "CC": "dunk.sp.0224@gmail.com;y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp; i.stransport@arrow.ocn.ne.jp; istransport310@gmail.com",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社MKトラスト",
+        "カウント": 154.0,
+        "担当": "古川",
+        "アドレス": "k-furukawa@mktrust.jp",
+        "CC": "n-shiina@mktrust.jp; k-hayakawa@mktrust.jp; y.kiyoshima@logi-ts.co.jp; y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社ZERO-ONE",
+        "カウント": 12.0,
+        "担当": "田原",
+        "アドレス": "k.tahara@zero-one-exp.co.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社アスカ",
+        "カウント": 606.0,
+        "担当": "保科",
+        "アドレス": "asuka-hoshina@vesta.ocn.ne.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp;asuka-takada@circus.ocn.ne.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社エスユーライン",
+        "カウント": 24.0,
+        "担当": "廣瀬",
+        "アドレス": "suline@lily.ocn.ne.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社エネル",
+        "カウント": 47.0,
+        "担当": "高山",
+        "アドレス": "takayama@enel-2012.com",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社ガルフ",
+        "カウント": 509.0,
+        "担当": "宇津野",
+        "アドレス": "gulf.utsuno@gmail.com; s.utsuno@gulf-fast-shipping.com",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp; gulf-co.ltd-@outlook.com",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社コタケ",
+        "カウント": 40.0,
+        "担当": "嶋貫",
+        "アドレス": "kotake.shimanuki@gmail.com",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社ダイトーコーポレーション",
+        "カウント": 7.0,
+        "担当": null,
+        "アドレス": null,
+        "CC": null,
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社ミナミ運輸",
+        "カウント": 6.0,
+        "担当": "大須賀",
+        "アドレス": "oosuga@minamiunyu.co.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社ラップタイマー",
+        "カウント": 640.0,
+        "担当": "石塚",
+        "アドレス": "ishizuka@laptimer.co.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社吉田商事",
+        "カウント": 19.0,
+        "担当": "吉田",
+        "アドレス": "qqbg5md9k@wit.ocn.ne.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社誠商事",
+        "カウント": 307.0,
+        "担当": "手塚",
+        "アドレス": "makotoshoji@ec5.technowave.ne.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社仙波",
+        "カウント": 398.0,
+        "担当": "前田",
+        "アドレス": "senba.maeda2019@gmail.com",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社日の出運輸　東日本　ランドライン事業部",
+        "カウント": 810.0,
+        "担当": "大原",
+        "アドレス": "t-oohara@hinode-gr.co.jp",
+        "CC": "y-nagai@hinode-gr.co.jp; m-akahoshi@hinode-gr.co.jp;y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "株式会社眞榮ロジ",
+        "カウント": 231.0,
+        "担当": "竜口",
+        "アドレス": "shinei-logi@arrow.ocn.ne.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "鴻池運輸株式会社　東京レールゲート営業所",
+        "カウント": 52.0,
+        "担当": "齋藤",
+        "アドレス": "saito.y@jpb.konoike.net",
+        "CC": "hanaya.k@jpa.konoike.net;y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "舟津産業株式会社",
+        "カウント": 6.0,
+        "担当": "山田",
+        "アドレス": "n-yamada@funadu.co.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "庄野運輸株式会社",
+        "カウント": 7.0,
+        "担当": null,
+        "アドレス": "nimura@shonounyu.co.jp",
+        "CC": "hideki@shonounyu.co.jp; y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "川越運送株式会社",
+        "カウント": 11.0,
+        "担当": "辻本",
+        "アドレス": "yoshiyasu-tsujimoto@kawagoe-trans.co.jp",
+        "CC": "kazuki-hirano@kawagoe-trans.co.jp; michinobu-obata@kawagoe-trans.co.jp; y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "大東港運株式会社",
+        "カウント": 391.0,
+        "担当": "竜口",
+        "アドレス": "s-tatsuguchi@daito-koun.co.jp",
+        "CC": "m-konaya@daito-koun.co.jp;h-furukawa@daito-koun.co.jp;m-saito@daito-koun.co.jp;y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "第一運輸興業株式会社",
+        "カウント": 131.0,
+        "担当": "福田",
+        "アドレス": "k.fukuda@daiichi-grp-hon.co.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "調整",
+        "カウント": 6.0,
+        "担当": null,
+        "アドレス": null,
+        "CC": null,
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "東海運株式会社",
+        "カウント": 761.0,
+        "担当": "長嵜",
+        "アドレス": "takao_nagasaki@azumaship.co.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp;junichi_chouraku@azumaship.co.jp;stanaka@azumaship.co.jp;ymonma@azumaship.co.jp;KeihinYusouka@azumaship.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "東洋埠頭株式会社",
+        "カウント": 1.0,
+        "担当": null,
+        "アドレス": null,
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "南本牧日新",
+        "カウント": 1.0,
+        "担当": null,
+        "アドレス": null,
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "日軽物流株式会社",
+        "カウント": 235.0,
+        "担当": "折笠",
+        "アドレス": "yoshiteru-orikasa@nikkei-buturyu.co.jp;",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp;koji-yamaguchi@nikkei-buturyu.co.jp;tatsuya-homma@nikkei-buturyu.co.jp; ",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "日本高速輸送株式会社",
+        "カウント": 306.0,
+        "担当": "高道",
+        "アドレス": "takamichi.hiroaki@jetkk.co.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp;ito.ichiro@jetkk.co.jp;takahashi.nobutada@jetkk.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "有限会社GP島田商会",
+        "カウント": 580.0,
+        "担当": "島田",
+        "アドレス": "o9031257145@docomo.ne.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "有限会社イワムラ商事",
+        "カウント": 2.0,
+        "担当": "佐藤",
+        "アドレス": "satou@iwamura-shoji.co.jp",
+        "CC": "vip@iwamura-shoji.co.jp; y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "有限会社クラモト商事",
+        "カウント": 291.0,
+        "担当": "北村",
+        "アドレス": "kuramoto-ariake@at.wakwak.com",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "有限会社ミタカ",
+        "カウント": 76.0,
+        "担当": "宮内",
+        "アドレス": "mitaka7811@amail.plala.or.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "有限会社鴫原商事",
+        "カウント": 1.0,
+        "担当": "大森",
+        "アドレス": "shigihara-s@iaa.itkeeper.ne.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "有限会社椎名急送",
+        "カウント": 244.0,
+        "担当": "伊藤",
+        "アドレス": "yukamaru@iaa.itkeeper.ne.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "有限会社藤運輸",
+        "カウント": 6.0,
+        "担当": "齋藤",
+        "アドレス": "fujiunyu3110@ezweb.ne.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "鈴与カーゴネット株式会社",
+        "カウント": 1.0,
+        "担当": "齋藤",
+        "アドレス": "Hiromichi.Saito@suzuyo.co.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp;Kenji.Kudou@suzuyo.co.jp;Yoshihiro.Saitou@suzuyo.co.jp;",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "有限会社サツケン",
+        "カウント": 32.0,
+        "担当": "橘",
+        "アドレス": "y.tachibana@satsuken.co.jp",
+        "CC": "y.kiyoshima@logi-ts.co.jp;y.watanabe@logi-ts.co.jp;h.amatake@satsuken.co.jp",
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    },
+    {
+        "配車名称": "丸田運輸倉庫株式会社",
+        "カウント": 7.0,
+        "担当": null,
+        "アドレス": null,
+        "CC": null,
+        "TEL": null,
+        "FAX": null,
+        "住所": null
+    }
+]

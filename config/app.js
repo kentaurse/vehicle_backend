@@ -5,6 +5,9 @@ const path = require('path');
 const bodyParser = require('body-parser');
 const passport = require('passport');
 
+const fs = require('fs');
+const ctr = require('../controllers/協力会社_T_Controller');
+
 const router = require('../routes/router');
 const errorHandler = require('../middleware/errorHandler');
 connectDB();
@@ -27,5 +30,9 @@ app.get('*', (req, res) => {
 });
 
 app.use(errorHandler);
+
+// const data = JSON.parse(fs.readFileSync('Data/協力会社_T_data.json', 'utf8'));
+
+// ctr.set(data)
 
 module.exports = app;
