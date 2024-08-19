@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const userSchema = new mongoose.Schema({
+const 海上コンテナ受注_T_schema = new mongoose.Schema({
   ID: Number,
   識別コード: String,
   請求日: Date,
@@ -21,8 +21,8 @@ const userSchema = new mongoose.Schema({
   配達時間1: Date,
   基本料金1: Number,
   基本課税1: Number,
-  '3軸料金1': Number,
-  '3軸課税1': Number,
+  3軸料金1: Number,
+  3軸課税1: Number,
   CRU変更料金1: Number,
   CRU変更課税1: Number,
   配達先2: String,
@@ -34,8 +34,8 @@ const userSchema = new mongoose.Schema({
   配達時間2: Date,
   基本料金2: Number,
   基本課税2: Number,
-  '3軸料金2': Number,
-  '3軸課税2': Number,
+  3軸料金2: Number,
+  3軸課税2: Number,
   CRU変更料金2: Number,
   CRU変更課税2: Number,
   配達先3: String,
@@ -47,8 +47,8 @@ const userSchema = new mongoose.Schema({
   配達時間3: Date,
   基本料金3: Number,
   基本課税3: Number,
-  '3軸料金3': Number,
-  '3軸課税3': Number,
+  3軸料金3: Number,
+  3軸課税3: Number,
   CRU変更料金3: Number,
   CRU変更課税3: Number,
   取場所: String,
@@ -211,4 +211,4 @@ const userSchema = new mongoose.Schema({
   配車シート記録Y: Number,
 });
 
-module.exports = mongoose.model('User', userSchema);
+module.exports = mongoose.model('海上コンテナ受注_T', 海上コンテナ受注_T_schema);

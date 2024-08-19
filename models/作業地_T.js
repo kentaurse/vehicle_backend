@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const userSchema = new mongoose.Schema({
+const 作業地_T_schema = new mongoose.Schema({
   作業地名称: String,
   取場所: Number,
   配達場所: Number,
@@ -12,4 +12,4 @@ const userSchema = new mongoose.Schema({
   担当者: String,
 });
 
-module.exports = mongoose.model('User', userSchema);
+module.exports = mongoose.model('作業地_T', 作業地_T_schema);

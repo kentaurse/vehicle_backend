@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const userSchema = new mongoose.Schema({
+const 料金DB_リフト_T_schema = new mongoose.Schema({
   検索key: String,
   荷主リフトオフ: Number,
   荷主リフトオン: Number,
@@ -12,4 +12,4 @@ const userSchema = new mongoose.Schema({
   下払保管課税: Number,
 });
 
-module.exports = mongoose.model('User', userSchema);
+module.exports = mongoose.model('料金DB_リフト_T', 料金DB_リフト_T_schema);

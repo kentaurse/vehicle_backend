@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const userSchema = new mongoose.Schema({
+const 荷主_T_schema = new mongoose.Schema({
   ID: Number,
   荷主名称: String,
   カウント: Number,
@@ -11,4 +11,4 @@ const userSchema = new mongoose.Schema({
   作成日: Date,
 });
 
-module.exports = mongoose.model('User', userSchema);
+module.exports = mongoose.model('荷主_T', 荷主_T_schema);
